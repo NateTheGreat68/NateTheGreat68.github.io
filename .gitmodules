@@ -1,0 +1,4 @@
+[submodule "jackbox-picker"]
+	path = jackbox-picker
+	url = https://github.com/NateTheGreat68/jackbox-picker.git
+	branch = gh-pages
